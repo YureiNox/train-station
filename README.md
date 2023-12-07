@@ -5,7 +5,9 @@ enter train station name (switzerland) and it will show you all train from this 
 
 # download the file :
 
-`git clone https://github.com/whiterabbit-git/train-station.git`
+```
+git clone https://github.com/Yudaol/train-station.git
+```
 
 
 # or download zip
