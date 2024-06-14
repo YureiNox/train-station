@@ -1,17 +1,27 @@
 # train-station
-enter train station name (switzerland) and it will show you all train from this station
 
-# to use it :
+Enter a train station name in Switzerland to view all trains departing from that station.
 
-# download the file :
+## How to Use
 
-```
-git clone https://github.com/Yudaol/train-station.git
-```
+### Download the Files
+
+Clone the repository using Git:
+  ```
+  git clone https://github.com/Yudaol/train-station.git
+  ```
 
 
-# or download zip
+Or download the ZIP file from the GitHub repository.
 
-# next move into the folder and double-click index.html All Done !!!
+### Launch the Application
+
+1. Navigate into the downloaded folder.
+2. Double-click on `index.html` to open it in your web browser.
+
+## Enjoy!
+
+That's it! You should now see all the trains departing from the selected station.
 
 ## ;)
+
