@@ -10,8 +10,6 @@ Clone the repository using Git:
   ```
   git clone https://github.com/Yudaol/train-station.git
   ```
-
-
 Or download the ZIP file from the GitHub repository.
 
 ### Launch the Application
@@ -24,4 +22,3 @@ Or download the ZIP file from the GitHub repository.
 That's it! You should now see all the trains departing from the selected station.
 
 ## ;)
-
